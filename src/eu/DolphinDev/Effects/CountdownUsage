@@ -1,0 +1,8 @@
+//This Is Not A Class but could be an Implementation to PvPItUP HG
+//Effect Countdown
+
+
+//Countdown code...
+//Each countdown int you Would Create a TextLocationEffect
+//instead of <variable>.start();
+//<variable>.run();
